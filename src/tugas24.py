@@ -1,0 +1,6 @@
+bil = input("Masukan bilangan: ")
+desimal = int(bil)
+print("Nilai dari bilangan", desimal, "adalah:")
+print(bin(desimal), "in binary.")
+print(oct(desimal), "in octal.")
+print(hex(desimal), "in hexadecimal.")

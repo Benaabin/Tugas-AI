@@ -1,0 +1,1 @@
+print(b'\xE2\x9C\x85'.decode("utf-8"),"Nice Try",b'\xE2\x9C\x85'.decode("utf-8"))
